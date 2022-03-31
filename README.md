@@ -1,16 +1,32 @@
-### Hi there 👋
+## Welcome to my GitHub Page!
 
-<!--
-**asha97/asha97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi! My name is Asha, and I am a second year Computer Engineering student at Concordia University. 🙋‍♀️ I have a background in health sciences (B.Sc., McGill University) 🫀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Interests 💙
+• Biotechnology/Healthcare 🧬
+
+• Web Development 💻
+
+• Mobile App Development 📱
+
+• Consulting 📊
+
+
+### Top Languages Used in Projects
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asha97)](https://github.com/anuraghazra/github-readme-stats)
+
+### Statistics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asha97)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+
+![](https://komarev.com/ghpvc/?username=asha97&color=ff69b4)
