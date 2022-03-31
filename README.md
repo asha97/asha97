@@ -15,10 +15,9 @@ Hi! My name is Asha, and I am a second year Computer Engineering student at Conc
 
 
 ### Top Languages Used in Projects
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asha97)](https://github.com/anuraghazra/github-readme-stats)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=asha97&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 
 ### Statistics
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asha97)](https://github.com/anuraghazra/github-readme-stats)
 
 
