@@ -18,7 +18,7 @@ Hi! My name is Asha, and I am a second year Computer Engineering student at Conc
 
 ### Languages Known 📚
 
-• Java, C++, JavaScript, Node.js , HTML, CSS, MySQL, Python, MATLAB
+• Java, C++, JavaScript, HTML, CSS, MySQL, Python, MATLAB
 
 
 ### Top Languages Used in Projects
