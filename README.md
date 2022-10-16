@@ -1,17 +1,24 @@
 ## Welcome to my GitHub Page!
 
 
-Hi! My name is Asha, and I am a second year Computer Engineering student at Concordia University. 🙋‍♀️ I have a background in health sciences (B.Sc., McGill University) 🫀
+Hi! My name is Asha, and I am a second year Computer Engineering student at Concordia University. 🙋‍♀️ I have a background in health sciences (B.Sc., McGill University) 💉
 
 
 ### Interests 💙
-• Biotechnology/Healthcare 🧬
+• Biotechnology/Healthcare 💉
 
 • Web Development 💻
 
 • Mobile App Development 📱
 
-• Consulting 📊
+• Consulting 👩‍💼
+
+• Data Analysis 📈 📊
+
+
+### Languages Known 📚
+
+• Java, C++, JavaScript, Node.js , HTML, CSS, MySQL, Python, MATLAB
 
 
 ### Top Languages Used in Projects
