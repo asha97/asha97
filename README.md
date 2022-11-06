@@ -11,14 +11,14 @@ Hi! My name is Asha, and I am a second year Computer Engineering student at Conc
 
 • Mobile App Development 📱
 
-• Consulting 👩‍💼
+• IT Consulting 👩‍💼
 
 • Data Analysis 📈 📊
 
 
 ### Languages Known 📚
 
-• Java, C++, JavaScript, HTML, CSS, MySQL, Python, MATLAB
+• Java, C++, JavaScript, HTML, CSS, MySQL, Python, MATLAB, Assembly (MIPS, Intel x86)
 
 
 ### Top Languages Used in Projects
