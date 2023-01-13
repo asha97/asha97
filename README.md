@@ -20,6 +20,11 @@ Hi! My name is Asha, and I am a U3 Computer Engineering student at Concordia Uni
 
 • Java, C++, JavaScript, HTML, CSS, MySQL, Python, MATLAB, Assembly (MIPS, Intel x86)
 
+### Technologies ⌨️
+
+• JetBrains (IntelliJ, PyCharm), GitHub, Microsoft Office (Word, Excel, PowerPoint), Jira, Arduino, MySQL Workbench, Tableau, Adobe XD
+
+
 ### LinkedIn Profile 📫
 https://www.linkedin.com/in/asha-islam/
 
