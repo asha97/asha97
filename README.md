@@ -5,7 +5,6 @@ Hi! My name is Asha, and I am a U3 Computer Engineering student at Concordia Uni
 
 
 ### Interests 💙
-• Biotechnology/Healthcare 💉
 
 • Web Development 💻
 
@@ -22,7 +21,7 @@ Hi! My name is Asha, and I am a U3 Computer Engineering student at Concordia Uni
 
 ### Technologies ⌨️
 
-• JetBrains (IntelliJ, PyCharm), GitHub, Microsoft Office (Word, Excel, PowerPoint), Jira, Arduino, MySQL Workbench, Tableau, Adobe XD
+• JetBrains (IntelliJ, PyCharm), GitHub, Microsoft Office (Word, Excel, PowerPoint), Jira, Arduino, MySQL Workbench, Tableau, Adobe XD, Figma, Android Studio
 
 
 ### LinkedIn Profile 📫
