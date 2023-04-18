@@ -17,7 +17,7 @@ Hi! My name is Asha, and I am a U3 Computer Engineering student at Concordia Uni
 
 ### Languages Known 📚
 
-• Java, C++, JavaScript, HTML, CSS, MySQL, Python, MATLAB, Assembly (MIPS, Intel x86)
+• Java, C++, JavaScript, HTML, CSS, MySQL, Python, PHP, MATLAB, Assembly (MIPS, Intel x86)
 
 ### Technologies ⌨️
 
