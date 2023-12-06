@@ -1,7 +1,7 @@
 ## Welcome to my GitHub Page!
 
 
-Hi! My name is Asha, and I am a U3 Computer Engineering student at Concordia University. 🙋‍♀️ 🖥️ I have a background in health sciences (B.Sc., McGill University) 💉
+Hi! My name is Asha, and I am a U4 Computer Engineering student at Concordia University. 🙋‍♀️ 🖥️ I have a background in health sciences (B.Sc., McGill University) 💉
 
 
 ### Interests 💙
@@ -12,7 +12,7 @@ Hi! My name is Asha, and I am a U3 Computer Engineering student at Concordia Uni
 
 • IT Consulting 👩‍💼
 
-• Data Analysis 📈 📊
+• Data Analysis, Data Science & Data Engineering 📈 📊
 
 
 ### Languages Known 📚
@@ -21,7 +21,7 @@ Hi! My name is Asha, and I am a U3 Computer Engineering student at Concordia Uni
 
 ### Technologies ⌨️
 
-• JetBrains (IntelliJ, PyCharm), GitHub, Microsoft Office (Word, Excel, PowerPoint), Jira, Arduino, MySQL Workbench, Tableau, Adobe XD, Figma, Android Studio, OpenText Exstream
+• JetBrains (IntelliJ, PyCharm), GitHub, Microsoft Office (Word, Excel, PowerPoint), Jira, Arduino, MySQL Workbench, Tableau, Adobe XD, Figma, Android Studio, OpenText Exstream, ServiceNow
 
 
 ### LinkedIn Profile 📫
