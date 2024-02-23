@@ -21,7 +21,7 @@ Hi! My name is Asha, and I am a U4 Computer Engineering student at Concordia Uni
 
 ### Technologies ⌨️
 
-• JetBrains (IntelliJ, PyCharm), GitHub, Microsoft Office (Word, Excel, PowerPoint), Jira, Arduino, MySQL Workbench, Tableau, Adobe XD, Figma, Android Studio, OpenText Exstream, ServiceNow
+• JetBrains (IntelliJ, PyCharm), GitHub, Microsoft Office (Word, Excel, PowerPoint), Jira, Arduino, MySQL Workbench, Google Firebase, Supabase Database, Tableau, Adobe XD, Figma, Android Studio, OpenText Exstream, ServiceNow
 
 
 ### LinkedIn Profile 📫
